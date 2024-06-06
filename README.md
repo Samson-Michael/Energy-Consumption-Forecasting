@@ -49,7 +49,7 @@ Welcome to the Energy Data Analysis Project! This project aims to analyze variou
 
 ## Usage
 
-To run the analysis, open the `main.ipynb` notebook and execute the cells. Make sure all the datasets are in the correct directory.
+To run the analysis, open the `main.ipynb` notebook and execute the cells. Make sure all the datasets are in the correct directory. You'll get the in-depth explanations as a comment under each analysis and visaulisation as well in this file.
 
 ## Datasets
 
