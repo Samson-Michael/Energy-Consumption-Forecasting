@@ -19,7 +19,7 @@
 
 ## Introduction
 
-Welcome to the Energy Data Analysis Project! This project aims to analyze various energy datasets to extract meaningful insights and trends. The analysis includes data preprocessing, visualization, generating reports on energy consumption patterns, and forecasting energy consumption of the city of Valencia in Spain.
+Welcome to the Energy Data Analysis Project! The project was developed to provide policy recommendation for renewable energy sources usage and infrastructure implementation by analysing the consumption patterns of existing sources in Valencia, Spain. This was achieved by forecasting the consumption of renewable resources through analysis of various energy datasets. Visualisation, trends and meaningful insights are provided.
 
 ## Features
 
@@ -34,12 +34,12 @@ Welcome to the Energy Data Analysis Project! This project aims to analyze variou
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/energy-data-analysis.git
+    git clone https://github.com/ShreyasLengade/Energy-Consumption-Forecasting.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd energy-data-analysis
+    cd Energy-Consumption-Forecasting
     ```
 
 3. Install the required dependencies:
