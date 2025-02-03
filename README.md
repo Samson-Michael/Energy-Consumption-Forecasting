@@ -116,8 +116,4 @@ Below are some examples of the visualizations and analysis you can perform with 
     plt.show()
     ```
 
----
-
-Thank you for checking out our project! If you find it useful, please give it a star ⭐ on GitHub.
-
 
