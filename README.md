@@ -1,6 +1,6 @@
-# Energy Data Analysis Project
+# Energy Consumption Analysis
 
-![Project Banner](https://raw.githubusercontent.com/ShreyasLengade/Github-Images/main/Banner%20for%20DM%20project.webp)
+![Project Banner](https://raw.githubusercontent.com/Samson-Michael/Github-Images/main/Banner%20for%20DM%20project.webp)
 
 ## Table of Contents
 
