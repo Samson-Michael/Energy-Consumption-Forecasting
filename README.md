@@ -34,7 +34,7 @@ Welcome to the Energy Data Analysis Project! The project was developed to provid
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ShreyasLengade/Energy-Consumption-Forecasting.git
+    git clone https://github.com/Samson-Michael/Energy-Consumption-Forecasting.git
     ```
 
 2. Navigate to the project directory:
